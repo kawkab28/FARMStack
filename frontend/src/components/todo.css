@@ -1,0 +1,10 @@
+table, td{
+    border:1px solid black;
+    text-align: left;
+    padding: 8px;
+    width:100%
+  }
+
+.style{
+  justify-content: space-between;
+}
